@@ -1,1 +1,1 @@
-[условие задачи 2](https://vjudge.net/contest/600841#problem/B)
+[условие задачи 2](https://vjudge.net/contest/601108#problem/B)
